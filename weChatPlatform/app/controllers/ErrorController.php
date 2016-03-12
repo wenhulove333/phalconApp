@@ -1,6 +1,6 @@
 <?php
 
-class LoginController extends \Phalcon\Mvc\Controller
+class ErrorController extends \Phalcon\Mvc\Controller
 {
 
     public function indexAction()
